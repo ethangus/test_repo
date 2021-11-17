@@ -8,3 +8,5 @@ Some text
 | Pressure     | P              | (Pa)          |
 | Temperature  | T              | (K)           |
 | Velocity     | v              | (m^3)         |
+<img src=my_image.png width=300>
+
