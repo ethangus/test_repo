@@ -1,7 +1,9 @@
 # Header
 
 Some text
+
 *This will be italic*
+
 **This will be bold**
 | Left-aligned | Center-aligned | Right-aligned |
 |:-------------|:--------------:|--------------:|
