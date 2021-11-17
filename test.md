@@ -1,8 +1,8 @@
 # Header
 
 Some text
-*'s: *This will be italic*
-**'s: **This will be bold**
+*This will be italic*
+**This will be bold**
 | Left-aligned | Center-aligned | Right-aligned |
 |:-------------|:--------------:|--------------:|
 | Pressure     | P              | (Pa)          |
