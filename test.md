@@ -8,6 +8,7 @@ Some text
 | Pressure     | P              | (Pa)          |
 | Temperature  | T              | (K)           |
 | Velocity     | v              | (m^3)         |
+
 \begin{align}
 \frac{dv}{dt} &= a + b^c + \alpha^2, \\
 \frac{dx}{dt} &= x.
